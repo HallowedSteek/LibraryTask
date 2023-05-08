@@ -1,0 +1,50 @@
+[
+  {
+    "NameOfBook": "The Great Gatsby",
+    "AuthorName": "F. Scott Fitzgerald"
+  },
+  {
+    "NameOfBook": "To Kill a Mockingbird",
+    "AuthorName": "Harper Lee"
+  },
+  {
+    "NameOfBook": "One Hundred Years of Solitude",
+    "AuthorName": "Gabriel Garcia Marquez"
+  },
+  {
+    "NameOfBook": "One Hundred Years of Solitude",
+    "AuthorName": "Gabriel Garcia Marquez"
+  },
+  {
+    "NameOfBook": "One Hundred Years of Solitude",
+    "AuthorName": "Gabriel Garcia Marquez"
+  },
+  {
+    "NameOfBook": "The Catcher in the Rye",
+    "AuthorName": "J.D. Salinger"
+  },
+  {
+    "NameOfBook": "The Hobbit",
+    "AuthorName": "J.R.R. Tolkien"
+  },
+  {
+    "NameOfBook": "Pride and Prejudice",
+    "AuthorName": "Jane Austen"
+  },
+  {
+    "NameOfBook": "1984",
+    "AuthorName": "George Orwell"
+  },
+  {
+    "NameOfBook": "Animal Farm",
+    "AuthorName": "George Orwell"
+  },
+  {
+    "NameOfBook": "Lord of the Flies",
+    "AuthorName": "William Golding"
+  },
+  {
+    "NameOfBook": "The Picture of Dorian Gray",
+    "AuthorName": "Oscar Wilde"
+  }
+]
