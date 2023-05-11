@@ -1,8 +1,8 @@
 ﻿using Library.Types;
 
-namespace Library.Importing;
+namespace Library.FileProcessors;
 
-internal interface IBooksData
+internal interface IDataSource
 {
     public List<Book> ReadListOfBooks();
 }

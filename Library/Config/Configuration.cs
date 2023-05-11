@@ -2,5 +2,7 @@
 
 internal class Configuration
 {
-    public string sourcePath => @"C:\Users\IonutPislaru\source\repos\Library\Library\john.csv";
+    public string sourcePath => @"C:\Users\IonutPislaru\source\repos\Library\Library\test.csv";
 }
+
+

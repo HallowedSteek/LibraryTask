@@ -2,20 +2,7 @@
 
 internal class Book
 {
-
-    private string _nameOfBook;
-    private string _authorName;
-
-    public string NameOfBook
-    {
-        get { return _nameOfBook; }
-        set { _nameOfBook = value; }
-    }
-
-    public string AuthorName
-    {
-        get { return _authorName; }
-        set { _authorName = value; }
-    }
+    public string NameOfBook { get; set; } = string.Empty;
+    public string AuthorName { get; set; } = string.Empty;
 
 }
